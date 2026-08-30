@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/gaurayra/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/gaurayra/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/gaurayra/leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/gaurayra/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/gaurayra/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/gaurayra/leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Binary Search
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/gaurayra/leetcode/tree/main/0169-majority-element/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/gaurayra/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,5 +105,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/gaurayra/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/gaurayra/leetcode/tree/main/0389-find-the-difference/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/gaurayra/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->

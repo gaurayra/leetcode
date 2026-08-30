@@ -14,11 +14,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/gaurayra/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/gaurayra/leetcode/tree/main/0169-majority-element/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/gaurayra/leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/gaurayra/leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/gaurayra/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/gaurayra/leetcode/tree/main/0169-majority-element/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/gaurayra/leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |

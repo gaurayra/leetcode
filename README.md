@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/gaurayra/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gaurayra/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/gaurayra/leetcode/tree/main/0169-majority-element/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/gaurayra/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/gaurayra/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0867-transpose-matrix](https://github.com/gaurayra/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1051-height-checker](https://github.com/gaurayra/leetcode/tree/main/1051-height-checker/) | Easy |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/gaurayra/leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0169-majority-element](https://github.com/gaurayra/leetcode/tree/main/0169-majority-element/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/gaurayra/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/gaurayra/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/gaurayra/leetcode/tree/main/0169-majority-element/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/gaurayra/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/gaurayra/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0389-find-the-difference](https://github.com/gaurayra/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [1051-height-checker](https://github.com/gaurayra/leetcode/tree/main/1051-height-checker/) | Easy |
@@ -124,4 +127,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gaurayra/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/gaurayra/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/gaurayra/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->

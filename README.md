@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/gaurayra/leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/gaurayra/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/gaurayra/leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/gaurayra/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/gaurayra/leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0066-plus-one](https://github.com/gaurayra/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0231-power-of-two](https://github.com/gaurayra/leetcode/tree/main/0231-power-of-two/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/gaurayra/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |

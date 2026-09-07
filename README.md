@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/gaurayra/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0231-power-of-two](https://github.com/gaurayra/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/gaurayra/leetcode/tree/main/0263-ugly-number/) | Easy |
+| [0728-self-dividing-numbers](https://github.com/gaurayra/leetcode/tree/main/0728-self-dividing-numbers/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/gaurayra/leetcode/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/gaurayra/leetcode/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/gaurayra/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |

@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/gaurayra/leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0066-plus-one](https://github.com/gaurayra/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0231-power-of-two](https://github.com/gaurayra/leetcode/tree/main/0231-power-of-two/) | Easy |
+| [2485-find-the-pivot-integer](https://github.com/gaurayra/leetcode/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/gaurayra/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/gaurayra/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Two Pointers
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2485-find-the-pivot-integer](https://github.com/gaurayra/leetcode/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/gaurayra/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/gaurayra/leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 <!---LeetCode Topics End-->

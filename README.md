@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gaurayra/leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/gaurayra/leetcode/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/gaurayra/leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2463-minimum-total-distance-traveled](https://github.com/gaurayra/leetcode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/gaurayra/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/gaurayra/leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/gaurayra/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/gaurayra/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [1051-height-checker](https://github.com/gaurayra/leetcode/tree/main/1051-height-checker/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/gaurayra/leetcode/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
+| [2463-minimum-total-distance-traveled](https://github.com/gaurayra/leetcode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -126,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gaurayra/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0392-is-subsequence](https://github.com/gaurayra/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/gaurayra/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [2463-minimum-total-distance-traveled](https://github.com/gaurayra/leetcode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/gaurayra/leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/gaurayra/leetcode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/gaurayra/leetcode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/gaurayra/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/gaurayra/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/gaurayra/leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/gaurayra/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/gaurayra/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/gaurayra/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/gaurayra/leetcode/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/gaurayra/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/gaurayra/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/gaurayra/leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Binary Search
@@ -111,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/gaurayra/leetcode/tree/main/0231-power-of-two/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/gaurayra/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -200,4 +203,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/gaurayra/leetcode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/gaurayra/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 <!---LeetCode Topics End-->

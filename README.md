@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/gaurayra/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/gaurayra/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/gaurayra/leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0835-image-overlap](https://github.com/gaurayra/leetcode/tree/main/0835-image-overlap/) | Medium |
 | [0867-transpose-matrix](https://github.com/gaurayra/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1051-height-checker](https://github.com/gaurayra/leetcode/tree/main/1051-height-checker/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gaurayra/leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0835-image-overlap](https://github.com/gaurayra/leetcode/tree/main/0835-image-overlap/) | Medium |
 | [0867-transpose-matrix](https://github.com/gaurayra/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gaurayra/leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/gaurayra/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |

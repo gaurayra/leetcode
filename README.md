@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/gaurayra/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/gaurayra/leetcode/tree/main/0263-ugly-number/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/gaurayra/leetcode/tree/main/0728-self-dividing-numbers/) | Easy |
+| [0836-rectangle-overlap](https://github.com/gaurayra/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/gaurayra/leetcode/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/gaurayra/leetcode/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [3870-count-commas-in-range](https://github.com/gaurayra/leetcode/tree/main/3870-count-commas-in-range/) | Easy |
@@ -213,4 +214,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/gaurayra/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/gaurayra/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->

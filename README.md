@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0867-transpose-matrix](https://github.com/gaurayra/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1051-height-checker](https://github.com/gaurayra/leetcode/tree/main/1051-height-checker/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gaurayra/leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/gaurayra/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/gaurayra/leetcode/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/gaurayra/leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/gaurayra/leetcode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/gaurayra/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/gaurayra/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/gaurayra/leetcode/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/gaurayra/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/gaurayra/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/gaurayra/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/gaurayra/leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -55,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/gaurayra/leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/gaurayra/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gaurayra/leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/gaurayra/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/gaurayra/leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -141,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gaurayra/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0392-is-subsequence](https://github.com/gaurayra/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/gaurayra/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/gaurayra/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/gaurayra/leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/gaurayra/leetcode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/gaurayra/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -174,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gaurayra/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/gaurayra/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |

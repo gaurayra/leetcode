@@ -3,7 +3,7 @@ class Solution {
     int[][] count;
     int[] product;
     public int[] resultArray(int[] nums, int k, int[][] queries) {
-        this.k = k;
+      this.k = k;
 
         int n = nums.length;
 
@@ -224,6 +224,6 @@ class Solution {
                 qr
             );
 
-        return (left * right) % k;
+        return (left * right) % k;  
     }
 }

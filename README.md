@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/gaurayra/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/gaurayra/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0041-first-missing-positive](https://github.com/gaurayra/leetcode/tree/main/0041-first-missing-positive/) | Hard |
+| [0045-jump-game-ii](https://github.com/gaurayra/leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0066-plus-one](https://github.com/gaurayra/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/gaurayra/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gaurayra/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0044-wildcard-matching](https://github.com/gaurayra/leetcode/tree/main/0044-wildcard-matching/) | Hard |
+| [0045-jump-game-ii](https://github.com/gaurayra/leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/gaurayra/leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/gaurayra/leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/gaurayra/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -168,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/gaurayra/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0044-wildcard-matching](https://github.com/gaurayra/leetcode/tree/main/0044-wildcard-matching/) | Hard |
+| [0045-jump-game-ii](https://github.com/gaurayra/leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0115-distinct-subsequences](https://github.com/gaurayra/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gaurayra/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0392-is-subsequence](https://github.com/gaurayra/leetcode/tree/main/0392-is-subsequence/) | Easy |

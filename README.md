@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/gaurayra/leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0045-jump-game-ii](https://github.com/gaurayra/leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/gaurayra/leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0049-group-anagrams](https://github.com/gaurayra/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0066-plus-one](https://github.com/gaurayra/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/gaurayra/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gaurayra/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/gaurayra/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gaurayra/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0041-first-missing-positive](https://github.com/gaurayra/leetcode/tree/main/0041-first-missing-positive/) | Hard |
+| [0049-group-anagrams](https://github.com/gaurayra/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/gaurayra/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/gaurayra/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/gaurayra/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -117,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/gaurayra/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/gaurayra/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/gaurayra/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/gaurayra/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -209,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0038-count-and-say](https://github.com/gaurayra/leetcode/tree/main/0038-count-and-say/) | Medium |
 | [0043-multiply-strings](https://github.com/gaurayra/leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0044-wildcard-matching](https://github.com/gaurayra/leetcode/tree/main/0044-wildcard-matching/) | Hard |
+| [0049-group-anagrams](https://github.com/gaurayra/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0115-distinct-subsequences](https://github.com/gaurayra/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0387-first-unique-character-in-a-string](https://github.com/gaurayra/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/gaurayra/leetcode/tree/main/0389-find-the-difference/) | Easy |

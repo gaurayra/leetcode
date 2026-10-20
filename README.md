@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/gaurayra/leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0043-multiply-strings](https://github.com/gaurayra/leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0048-rotate-image](https://github.com/gaurayra/leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0050-powx-n](https://github.com/gaurayra/leetcode/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/gaurayra/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0231-power-of-two](https://github.com/gaurayra/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/gaurayra/leetcode/tree/main/0263-ugly-number/) | Easy |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0044-wildcard-matching](https://github.com/gaurayra/leetcode/tree/main/0044-wildcard-matching/) | Hard |
+| [0050-powx-n](https://github.com/gaurayra/leetcode/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/gaurayra/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/gaurayra/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Greedy

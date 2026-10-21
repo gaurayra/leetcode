@@ -1,6 +1,6 @@
 class Solution {
     public boolean isMatch(String s, String p) {
-       int match=0, i=0, j=0; 
+        int match=0, i=0, j=0; 
        int star=-1;
        while(i<s.length()){
         if(j<p.length() && (s.charAt(i)==p.charAt(j) || p.charAt(j)=='?')){

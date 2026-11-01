@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/gaurayra/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/gaurayra/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/gaurayra/leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/gaurayra/leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0835-image-overlap](https://github.com/gaurayra/leetcode/tree/main/0835-image-overlap/) | Medium |
 | [0867-transpose-matrix](https://github.com/gaurayra/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1051-height-checker](https://github.com/gaurayra/leetcode/tree/main/1051-height-checker/) | Easy |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/gaurayra/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0231-power-of-two](https://github.com/gaurayra/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/gaurayra/leetcode/tree/main/0263-ugly-number/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/gaurayra/leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0728-self-dividing-numbers](https://github.com/gaurayra/leetcode/tree/main/0728-self-dividing-numbers/) | Easy |
 | [0836-rectangle-overlap](https://github.com/gaurayra/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/gaurayra/leetcode/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
